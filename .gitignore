@@ -7,3 +7,4 @@ __pycache__/
 data/*.mp4
 data/*.mov
 data/*.avi
+temp/*.mp4
